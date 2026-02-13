@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0F1117"/>
+  <!-- Subtle gradient overlay -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#0F1117;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <!-- Brand name -->
+  <text x="600" y="270" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle">BenEl Marketing Hub</text>
+  <!-- Tagline -->
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="24" fill="#9CA3AF" text-anchor="middle">Expert strategies for modern marketers, sales leaders, and brand builders</text>
+  <!-- Orange accent line -->
+  <rect x="500" y="380" width="200" height="4" rx="2" fill="#FF6B35"/>
+  <!-- Subtle category pills -->
+  <text x="440" y="440" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle">Sales</text>
+  <text x="600" y="440" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle">Marketing</text>
+  <text x="760" y="440" font-family="Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle">Branding</text>
+</svg>
